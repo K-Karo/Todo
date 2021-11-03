@@ -1,4 +1,4 @@
-# todo application
+# Todo application
 
 This application is a simple note keeping application to help to manage daily works and plans. For each work, it is possible to mark it as a completed work. it is also possible to delete the proposed work or plan. There is a filtering possibility that helps to separate completed or uncompleted works.
 
